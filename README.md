@@ -1,4 +1,3 @@
-# roma685235423.github.io
 <h1 align="center">Hi 👋, I'm Roman Boiko</h1>
 <h3 align="center">A passionate iOS developer from Russia</h3>
 
