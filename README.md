@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Roman Boiko</h1>
-<h3 align="left">A passionate iOS developer from Russia</h3>
+<h3 align="left">A passionate iOS developer from Moscow</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
