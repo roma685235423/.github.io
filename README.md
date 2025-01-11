@@ -1,10 +1,9 @@
 <h1 align="left">Hi 👋, I'm Roman Boiko</h1>
-<h3 align="left">A passionate iOS developer from Moscow</h3>
+<h3 align="left">A passionate mobile developer from Moscow</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
-- 📫 My Email      **roma685235423@icloud.com**
 - 📱 My Telegram   **https://t.me/b_R0M**
 - 💻 My LinkedIn   **https://www.linkedin.com/in/roman-boiko-36a8b525b**
   
