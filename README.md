@@ -10,5 +10,5 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> </a> </p>
 
